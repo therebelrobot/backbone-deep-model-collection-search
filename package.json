@@ -1,0 +1,39 @@
+{
+  "name": "backbone-deep-model-collection-search",
+  "version": "0.0.1",
+  "description": "A small sideloader for backbone collections to make it work with backbone-deep-model",
+  "main": "backbone-deep-model-collection-search.js",
+  "scripts": {
+    "test": "istanbul cover _mocha --"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therebelrobot/backbone-deep-model-collection-search.git"
+  },
+  "keywords": [
+    "backbone",
+    "deep",
+    "models",
+    "collections",
+    "model",
+    "collection",
+    "search",
+    "find",
+    "filter",
+    "kahwee",
+    "backbone-deep-model"
+  ],
+  "author": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/backbone-deep-model-collection-search/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/backbone-deep-model-collection-search#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.2",
+    "lodash": "^4.5.0",
+    "mocha": "^2.4.5",
+    "standard": "^6.0.5"
+  }
+}
