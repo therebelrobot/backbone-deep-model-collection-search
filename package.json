@@ -1,6 +1,6 @@
 {
   "name": "backbone-deep-model-collection-search",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A small sideloader for backbone collections to make it work with backbone-deep-model",
   "main": "backbone-deep-model-collection-search.js",
   "scripts": {
